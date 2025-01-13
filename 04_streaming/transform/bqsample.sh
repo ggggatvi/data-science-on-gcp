@@ -2,7 +2,7 @@
 
 if test "$#" -ne 1; then
    echo "Usage: ./bqsample.sh bucket-name"
-   echo "   eg: ./bqsample.sh cloud-training-demos-ml"
+   echo "   eg: ./bqsample.sh my-project-1470225932514"
    exit
 fi
 

@@ -28,7 +28,7 @@ If you have not already done so, load the raw data into a BigQuery dataset:
 *  Type (change bucket as necessary):
   ```
    gsutil cp create_table.sql \
-    gs://cloud-training-demos-ml/flights/ch3/create_table.sql
+    gs://my-project-1470225932514/flights/ch3/create_table.sql
   ```
 * Create empty table using web console:
   * navigate to databases section of Cloud SQL and create a new database called bts
